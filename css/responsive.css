@@ -89,6 +89,9 @@ RESPONSIVE FIXES
     .app-brief .left-align .blank-block{
     height: 0px;
     }
+    .colored-line-left{
+        width: 88px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -157,6 +160,9 @@ RESPONSIVE FIXES
     .app-brief .left-align .blank-block{
     height: 0px;
     }
+    .colored-line-left{
+        width: 80px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -215,6 +221,9 @@ RESPONSIVE FIXES
     }
     .app-brief .left-align .blank-block{
     height: 0px;
+    }
+    .colored-line-left{
+        width: 65px;
     }
 }
 
