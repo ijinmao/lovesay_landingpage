@@ -14,7 +14,8 @@ html {
 
 body {
     background: #ffffff;
-    font-family: 'Roboto', sans-serif;
+    font-family: STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", 
+             'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
     color: #313131;
@@ -135,7 +136,7 @@ li {
 
 h1,
 h2 {
-    font-family: 'Lane', sans-serif;
+    font-family: STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", 'Lane', sans-serif;
     font-weight: normal;
 }
 
