@@ -30,6 +30,11 @@ RESPONSIVE FIXES
         float: left;
         margin: auto;
     }
+
+    .app-brief .left-align .blank-block{
+    height: 100px;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -80,6 +85,9 @@ RESPONSIVE FIXES
     .features .features-left .icon-container,
     .features .features-right .icon-container {
         display: none;
+    }
+    .app-brief .left-align .blank-block{
+    height: 0px;
     }
 }
 
@@ -146,6 +154,9 @@ RESPONSIVE FIXES
         width: 80%;
         margin-bottom: 10px;
     }
+    .app-brief .left-align .blank-block{
+    height: 0px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -202,6 +213,9 @@ RESPONSIVE FIXES
         -moz-background-clip: padding;
         background-clip: padding-box;
     }
+    .app-brief .left-align .blank-block{
+    height: 0px;
+    }
 }
 
 @media (max-width: 320px) {
@@ -237,5 +251,8 @@ RESPONSIVE FIXES
     .full-screen .standard-button {
         font-size: 14px;
         padding: 8px 5px;
+    }
+    .app-brief .left-align .blank-block{
+    height: 0px;
     }
 }

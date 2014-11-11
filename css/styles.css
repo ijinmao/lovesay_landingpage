@@ -151,7 +151,7 @@ h2 {
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 1.625rem;
     line-height: 38px;
     font-weight: 300;
 }
@@ -215,6 +215,11 @@ h5 {
     background: #F7F8FA !important;
 }
 
+.pink-text{
+    color: #ff658c;
+    font-size: 34px;
+}
+
 
 /*---------------------------------------
    SECTIONS          
@@ -259,7 +264,7 @@ h5 {
     float: left;
     z-index: 1;
     display: block;
-    width: 165px;
+    width: 95px;
     height: 1px;
 }
 
@@ -489,6 +494,7 @@ header .intro-section .buttons {
 
 .app-brief .left-align .feature-list li {
     margin-bottom: 26px;
+    font-size: 1.26rem;
 }
 
 .app-brief .left-align .feature-list li i {
@@ -835,3 +841,15 @@ footer .copyright {
     padding-top: 10px;
     margin-bottom: 50px;
 }
+
+
+
+/*--------
+jdn add
+-------*/
+.app-brief .left-align .blank-block{
+    height: 100px;
+}
+
+
+
